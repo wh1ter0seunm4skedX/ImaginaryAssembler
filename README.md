@@ -13,13 +13,13 @@ This repository contains the final project for the System Programming course at 
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/double-pass-assembler.git
+   git clone https://github.com/wh1ter0seunm4skedX/Double-Pass-Assembler-for-Imaginary-Computer-System-Programming-Project.git
    ```
 
 2. **Compile the Assembler:**
    Compile the assembler using a C compiler such as gcc.
    ```bash
-   gcc -o assembler assembler.c
+   gcc -o assembler main.c
    ```
 
 3. **Provide Assembly Code:**
