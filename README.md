@@ -1,6 +1,4 @@
-Certainly! Below is a template for the README.md file for your GitHub repository:
 
-```markdown
 # Double-Pass Assembler for Imaginary Computer
 
 This repository contains the final project for the System Programming course at The Open University of Israel. It is a double-pass assembler implemented in C, tailored for an imaginary computer architecture.
@@ -44,8 +42,4 @@ This project is licensed under the [MIT License](LICENSE).
 ## Acknowledgements
 
 Special thanks to the instructors and mentors at The Open University of Israel for their guidance and support throughout the development of this project.
-```
 
-Replace `your-username` with your actual GitHub username in the clone command.
-
-Feel free to customize this template further to better suit your project's specific details and requirements.
