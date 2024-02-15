@@ -1,12 +1,6 @@
 /*
 General header file for the assembly.
 Contains macros, data structures and methods declaration.
-===============
-By Michael Bistritzki
-ID 203439385
-and Noa Minsker
-ID 308147131
-===============
 */
 
 #ifndef ASSEMBLER_H
